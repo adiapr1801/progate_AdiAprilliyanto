@@ -1,0 +1,101 @@
+.container{
+		width:80%;
+		margin:auto;
+		}
+.atas{ width:100%;
+		height:100px;
+		background-image:url(../img/peta.jpg);
+		float:left;
+		}
+.atasbg{ width:92%;
+		height:91px;
+		background-image:linear-gradient(blue,white);
+		padding:5px 4%;
+		opacity:0.7;
+		float:left;
+		}
+.navigasi{width:100%;
+		padding-top:0px;
+		padding-bottom:10px;
+		color:#FFFFFF;
+		background:#0000CC;
+		float:left;
+		}
+.navigasi li{list-style:none;
+			float:left;
+			margin-left:20px;
+	}
+.navigasi li a{color:#FFFFFF;
+				text-decoration:none;
+	}
+.navigasi li a:hover{text-decoration:underline;
+font-weight:bold;
+			}
+.banner{width:100%;
+		height:200px;
+		background:#CCCCCC;
+		float:left;
+		}
+.abu{width:100%;
+	background:#CCCCCC;
+	float:left;
+	padding-top:50px;
+	padding-bottom:50px;
+	}
+.kamar{width:100%;
+		float:left;
+		padding-top:30px;
+		padding-bottom:30px;
+		}
+.isikamar{width:30%;
+
+			padding-bottom:20px;
+			background:#CCCCCC;
+			margin-left:3%;
+			float:left;
+			box-shadow:blue 5px 5px;
+			border-radius:7px;
+			text-align:center;	
+			}
+.isikamar img{border-radius:7px 7px 0px 0px;}
+.isikamar img:hover{width:110%;
+			position:relative;
+			border:#0000CC solid 2px;
+			transform:rotate(20deg);	}
+.isikamar p{margin-left:20px;
+			text-align:left;
+			position:static;
+}
+.galeri{width:24%;
+		height:100px;
+			margin-left:1%;
+			float:left;
+			box-shadow:blue 5px 5px;
+			border-radius:7px;
+			text-align:center;	
+			}
+.galeri img{border-radius:7px 7px 7px 7px;
+		width:100%;
+		height:100%;}
+.galeri img:hover{width:110%;
+			position:relative;
+			border:#0000CC solid 2px;
+			transform:rotate(20deg);	}
+.footer{width:100%;
+		padding-top:50px;
+		padding-bottom:50px;
+		background:#0000FF;
+		float:left;
+		}
+.footer a{color:#999999;
+			text-decoration:none;
+			}
+.footer a:hover{color:#FFFFFF;
+				text-decoration:underline;
+				}
+.atasbgt{color:#FFFFFF;
+		padding-top:20px;
+font-size:36px;
+		text-shadow:#000099;
+		opacity:1;
+		}

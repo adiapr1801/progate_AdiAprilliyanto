@@ -1,0 +1,18 @@
+@media(max-width:1000px){
+		.galeri{width:45%;
+				margin-top:20px;
+				margin-left:20px;
+			}
+}
+@media(max-width:670px){
+	.navigasi li{
+				text-align:right;
+				float:none;
+			}
+	.isikamar{width:100%;
+				margin-top:10px;
+		}
+	.galeri{width:100%;
+				margin-top:20px;
+			}
+}
